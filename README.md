@@ -1,5 +1,6 @@
-**# -Project-For-Blood-Groups-Management-System**
+**# -Project-For-Blood-Groups-Management-System** 
 A **C++ console application** to manage blood donor records. The system allows adding, viewing, searching, updating, and deleting donor information, as well as checking blood donation compatibility.
+<img width="976" height="506" alt="Image" src="https://github.com/user-attachments/assets/e904a07b-5ac2-480a-ba47-dec06214655d" />###
 **## What the Project Does***
 
 This project provides a **complete blood donor management solution** that allows users to:
