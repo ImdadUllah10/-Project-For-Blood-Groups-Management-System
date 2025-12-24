@@ -49,7 +49,7 @@ The project uses **file handling** to store records in a text file (`blood_data.
 | B+    | B+, AB+ |
 | AB-   | AB-, AB+ |
 | AB+   | AB+ only |
-
+<img width="882" height="506" alt="Image" src="https://github.com/user-attachments/assets/29d61abd-0fb9-4911-998f-182ba79f450f" />
 ---
 Exit.
 <img width="882" height="506" alt="Image" src="https://github.com/user-attachments/assets/a1bd1da4-1b31-41e5-8457-5ecc4ae1278c" />
