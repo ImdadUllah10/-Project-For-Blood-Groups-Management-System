@@ -11,6 +11,7 @@ This project provides a **complete blood donor management solution** that allows
 - Update existing donor information.
 - Delete donor records.
 - Check blood donation compatibility based on blood group rules.
+- <img width="969" height="510" alt="Image" src="https://github.com/user-attachments/assets/f73f79f0-3330-4a83-8b6b-c801dfd2171c" />
 
 The project uses **file handling** to store records in a text file (`blood_data.txt`) so that data persists between sessions.
 
