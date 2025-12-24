@@ -33,7 +33,7 @@ The project uses **file handling** to store records in a text file (`blood_data.
 - **Update Record:** Modify existing donor information.
 - **Delete Record:** Remove a donor from the system.
 - **Blood Donation Compatibility:** Check which blood groups a donor can safely donate to.
-
+<img width="976" height="506" alt="Image" src="https://github.com/user-attachments/assets/e904a07b-5ac2-480a-ba47-dec06214655d" />###
 ---
 
 ## Blood Donation Compatibility
@@ -50,7 +50,8 @@ The project uses **file handling** to store records in a text file (`blood_data.
 | AB+   | AB+ only |
 
 ---
-
+Exit.
+<img width="882" height="506" alt="Image" src="https://github.com/user-attachments/assets/a1bd1da4-1b31-41e5-8457-5ecc4ae1278c" />
 ## Getting Started
 
 ### Prerequisites
